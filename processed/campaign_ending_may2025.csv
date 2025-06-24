@@ -1,0 +1,5 @@
+campaign_id,campaign_name,budget,start_date,end_date
+1.0,Summer Sale,5000.0,2025-04-15,2025-05-10
+2.0,New User Promo,3000.0,2025-05-01,2025-05-31
+4.0,Flash Deal,2000.0,2025-05-20,2025-05-25
+5.0,Member Exclusive,4000.0,2025-04-01,2025-05-30

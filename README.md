@@ -2,8 +2,7 @@
 
 ## 📌 Project Objectives
 
-- ✅ Practice **basic SQL skills**: `SELECT`, `WHERE`, `GROUP BY`, `JOIN`
-- ✅ Perform **data cleaning and error handling** using Excel
+- ✅ Perform **data cleaning and error handling** using Python
 - ✅ Create **basic charts** for quick reporting
 - ✅ Generate **1–2 initial observations** from the data to support further analysis
 

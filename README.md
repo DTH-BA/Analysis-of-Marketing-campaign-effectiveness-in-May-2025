@@ -20,12 +20,6 @@ This is the initial stage of a comprehensive marketing campaign analysis project
 - **Conversion funnel analysis:** identify drop-off points and optimize user flow  
 - **KPI reporting and dashboards:** ROAS, CPL, regional performance  
 - **Performance evaluation:** final business recommendations  
-
-## Repository Structure
-marketing-campaign-analysis/
-├── data_raw/ # Raw data files (original datasets)
-├── data_cleaned/ # Cleaned datasets after preprocessing
-├── scripts/ # Python scripts for data cleaning
 ├── processed/ # Filtered datasets and visual outputs
 ├── reports/
 └── README.md # Project documentation
